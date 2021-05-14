@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @carrotman1213
+- 👀 I’m interested in Python and AWS. 
+- 🌱 I’m currently learning Python and AWS.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email: joseph.smithers1996@gmail.com or IG: Joes_IT_Journey
